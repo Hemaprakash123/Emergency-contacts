@@ -1,6 +1,6 @@
 const numbers = [
     { name: "National Emergency Number", number: "112" },
-    { name: "Police", number: "112 or 100" },
+    { name: "Police", number: "100" },
     { name: "Fire", number: "101" },
     { name: "Ambulance", number: "102" },
     { name: "Disaster Management Services", number: "108" },
